@@ -1,1 +1,1 @@
-Java code for Stanford CS106A Karel assignments.
+Java code (solution) for Stanford CS106A Karel assignments.
